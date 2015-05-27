@@ -1,5 +1,9 @@
 public class tes{
-String name1="ikhsan";
-public static void main(String[]args){
-}
+  String admin="admin";
+  String name1="ikhsan";
+  public static void main(String[]args){
+  
+    
+    
+  }
 }
