@@ -1,5 +1,5 @@
 public class tes{
-  String admin="admin";
+  String alfian="hidayat";
   public static void main(String[]args){
   
     
